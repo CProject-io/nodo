@@ -58,6 +58,8 @@ The architecture of our nodes is built upon two fundamental pillars: hardware (e
     - Facilitates expansion and adoption as the network itself becomes a decentralized communication medium.  
     - Reinforces the vision of a sustainable and self-sufficient ecosystem.
 
+> See [Node OS & Parallel Network](https://github.com/CProject-io/LandingDocs/blob/main/%F0%9F%93%81%20docs/os-and-parallel-network.md) in LandingDocs for how this software stack is packaged as a single purpose-built OS image, and for what is actually free versus token-metered on this network.
+
 ## 4. Conclusion
 
 The architecture of the nodes in C-Project represents a paradigm shift in blockchain design. By integrating renewable energy generation with transaction validation and automatic block creation, our nodes ensure network operability, security, and sustainability. This model not only generates an internal economy to finance maintenance and development but also paves the way for future expansions in storage, computation, and interconnection, establishing C-Project as a comprehensive and eco-friendly alternative to traditional blockchains.
